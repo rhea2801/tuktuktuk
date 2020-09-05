@@ -14,7 +14,9 @@
 `String` : Longest palindromic substring
 <br/>
 `Tries` : Suffix Trie Construction
+<br/>
 `Hash Tables`: Suffix Trie Construction
+<br/>
 `YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
 
 ## Thoughts
