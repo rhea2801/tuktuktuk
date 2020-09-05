@@ -11,6 +11,7 @@
 `Sort`: Heap Sort
 <br/>
 `Search`: Search in sorted Matrix
+<br/>
 `String` : Longest palindromic substring
 <br/>
 `Tries` : Suffix Trie Construction
