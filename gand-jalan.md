@@ -1,7 +1,7 @@
 ## ** let's see how this goes**
 
 
-### Ankit's 5/9/20
+### Ankit's slog 5/9/20
 
 ## CP
 `Heaps`: Min Heap Construction
@@ -10,8 +10,12 @@
 <br/>
 `Sort`: Heap Sort
 <br/>
+`Search`: Search in sorted Matrix
 `String` : Longest palindromic substring
-
+<br/>
+`Tries` : Suffix Trie Construction
+`Hash Tables`: Suffix Trie Construction
+`YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
 
 ## Thoughts
 Permutations question is pretty amazing and confusing but the swapping concept looks pretty useful for gen algo application. I have a pretty cool timeline map of its explanation. Will upload it with code
