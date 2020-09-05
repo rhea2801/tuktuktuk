@@ -1,20 +1,21 @@
 ## ** let's see how this goes**
 
 
-### Ankit's 3/9/20 - 4/9/20
+### Ankit's 5/9/20
 
 ## CP
-`Graphs`: BFS, DFS
+`Heaps`: Min Heap Construction
 <br/>
-`BT`: Branch Sums, Node Depths
+`Recursion`: Permutations, powerset
 <br/>
-`Misc`: Kadane's algo, thoda c++
+`Sort`: Heap Sort
+`String` : Longest palindromic substring
 
 
 ## Thoughts
-Kaafi pain
+Permutations question is pretty amazing and confusing but the swapping concept looks pretty useful for gen algo application. I have a pretty cool timeline map of its explanation. Will upload it with code
 
-###### Code will be uploaded in proper sub-folders by today 5pm latest
+#### Code will be uploaded in proper sub-folders by Sunday 6th September 8pm latest
 
 
 ### Rhea - ~ to 3/9/20
