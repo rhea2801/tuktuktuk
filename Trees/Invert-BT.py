@@ -7,7 +7,6 @@ Each Binary Tree node has an integer value, a left child node, and a right child
 
 
 def invertBinaryTree(tree):
-    # Write your code here
     queue = [tree]
     while len(queue) != 0:
         currNode = queue.pop(0)
