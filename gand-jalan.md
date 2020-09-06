@@ -4,7 +4,7 @@
 ### Ankit's slog 5/9/20
 
 ## CP
-`Heaps`: Min Heap Construction
+<!-- `Heaps`: Min Heap Construction
 <br/>
 `Recursion`: Permutations, powerset
 <br/>
@@ -19,6 +19,8 @@
 `Hash Tables`: Suffix Trie Construction
 <br/>
 `YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
+-->
+### Entire week's problems revised, github repo updated
 
 ## Thoughts
 Permutations question is pretty amazing and confusing but the swapping concept looks pretty useful for gen algo application. I have a pretty cool timeline map of its explanation. Will upload it with code
