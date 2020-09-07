@@ -1,9 +1,9 @@
 ## ** let's see how this goes**
 
 
-### Ankit's slog 5/9/20
+## Ankit's slog 7/9/20
 
-## CP
+### CP
 <!-- `Heaps`: Min Heap Construction
 <br/>
 `Recursion`: Permutations, powerset
@@ -12,7 +12,6 @@
 <br/>
 `Search`: Search in sorted Matrix
 <br/>
-`String` : Longest palindromic substring
 <br/>
 `Tries` : Suffix Trie Construction
 <br/>
@@ -20,12 +19,19 @@
 <br/>
 `YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
 -->
-### Entire week's problems revised, github repo updated
+`Trees` : Validate BST, BST traversal, Min ht BST
+<br/>
+`Dynamic programming` : Levenshtein dist, Min no.of coins for change
+<br/>
+`Graphs` : Single cycle check, River Sizes
+<br/>
+`String` : Group anagrams
 
-## Thoughts
-Permutations question is pretty amazing and confusing but the swapping concept looks pretty useful for gen algo application. I have a pretty cool timeline map of its explanation. Will upload it with code
+<!--### Entire week's problems revised, github repo updated-->
 
-#### Code will be uploaded in proper sub-folders by Sunday 6th September 8pm latest
+### Thoughts
+Check out min ht bst, river sizes and levenshtein distance problem. Pretty good at concept clearing.
+
 
 
 ### Rhea - ~ to 3/9/20
