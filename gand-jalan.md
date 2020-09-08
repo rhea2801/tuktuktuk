@@ -3,13 +3,12 @@
 ## Ankit's slog 7/9/20
 
 ### CP
-
+<!--
 `Heaps`: Min Heap Construction
 <br/>
 `Sort`: Heap Sort
 <br/>
 `Search`: Search in sorted Matrix
-<br/>
 <br/>
 `Tries` : Suffix Trie Construction
 <br/>
@@ -21,6 +20,8 @@
 <br/>
 `Dynamic programming` : Levenshtein dist, Min no.of coins for change
 <br/>
+-->
+
 `Recursion`: Lowest common manager
 <br/>
 `Graphs` : Youngest common ancestor
