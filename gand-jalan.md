@@ -20,7 +20,7 @@
 <!-- `Trees` : Validate BST, BST traversal, Min ht BST
 <br/> -->
 
-`Arrays`: Sub-Array Sort
+`Arrays`: Sub-Array sort
 <br/>
 `Dynamic programming` : Min number of jumps, Water area
 <br/>
