@@ -7,9 +7,6 @@
 <!-- `Heaps`: Min Heap Construction
 <br/> -->
 
-`Arrays`: Sub-Array Sort
-<br/>
-
 <!-- `Sort`: Heap Sort
 <br/> -->
 <!-- `Search`: Search in sorted Matrix
@@ -23,6 +20,8 @@
 <!-- `Trees` : Validate BST, BST traversal, Min ht BST
 <br/> -->
 
+`Arrays`: Sub-Array Sort
+<br/>
 `Dynamic programming` : Min number of jumps, Water area
 <br/>
 
