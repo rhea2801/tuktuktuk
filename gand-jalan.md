@@ -23,7 +23,7 @@
 <!-- `Trees` : Validate BST, BST traversal, Min ht BST
 <br/> -->
 
-`Dynamic programming` : Min number of jumps, water area
+`Dynamic programming` : Min number of jumps, Water area
 <br/>
 
 <!-- `Recursion`: Lowest common manager
