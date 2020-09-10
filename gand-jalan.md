@@ -19,10 +19,13 @@
 <br/> -->
 <!-- `Trees` : Validate BST, BST traversal, Min ht BST
 <br/> -->
+<!-- `Arrays`: Sub-Array sort
+<br/> -->
 
-`Arrays`: Sub-Array sort
-<br/>
 `Dynamic programming` : Min number of jumps, Water area
+<br/>
+
+`Famous Algorithms` : Topological sort
 <br/>
 
 <!-- `Recursion`: Lowest common manager
