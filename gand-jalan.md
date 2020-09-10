@@ -1,6 +1,6 @@
 ## ** let's see how this goes**
 
-## Ankit's slog 9/9/20
+## Ankit's slog 10/9/20
 
 ### CP
 
@@ -38,7 +38,7 @@
 
 ### Thoughts
 
-Check out min no of jumps and water area problems. Pretty good at concept clearing.
+Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems.
 Check out the new folder and review notes on systems designing
 
 ### Rhea - ~ to 3/9/20
