@@ -1,6 +1,6 @@
 ## ** let's see how this goes**
 
-## Ankit's slog 10/9/20
+## Ankit's slog 11/9/20
 
 ### CP
 
@@ -17,8 +17,10 @@
 <br/> -->
 <!-- `YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
 <br/> -->
-<!-- `Trees` : Validate BST, BST traversal, Min ht BST
-<br/> -->
+
+`Trees` : Same BST, Max Path Sum in BT
+<br/>
+
 <!-- `Arrays`: Sub-Array sort
 <br/> -->
 
@@ -38,8 +40,8 @@
 
 ### Thoughts
 
-Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems.
-Check out the new folder and review notes on systems designing
+Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems. Also, check out max sum path.
+Check out the new folder and review notes on systems designing.
 
 ### Rhea - ~ to 3/9/20
 
