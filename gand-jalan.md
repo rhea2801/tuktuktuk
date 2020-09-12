@@ -18,17 +18,20 @@
 <!-- `YouTube`: started watching HackerRank's DS playlist. Looks pretty neat
 <br/> -->
 
-`Trees` : Same BST, Max Path Sum in BT
-<br/>
+<!-- `Trees` : Same BST, Max Path Sum in BT
+<br/> -->
 
 <!-- `Arrays`: Sub-Array sort
 <br/> -->
 
-`Dynamic programming` : Min number of jumps, Water area
+<!-- `Dynamic programming` : Min number of jumps, Water area
+<br/> -->
+
+`Linked Lists` :Find Loops
 <br/>
 
-`Famous Algorithms` : Topological sort
-<br/>
+<!-- `Famous Algorithms` : Topological sort
+<br/> -->
 
 <!-- `Recursion`: Lowest common manager
 <br/> -->
@@ -40,7 +43,8 @@
 
 ### Thoughts
 
-Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems. Also, check out max sum path.
+Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems. Find loop was a pretty decent problem.
+Also, I'm gonna revise previously solved questions today for LeetCode contest tmrw ( Sunday 12th ) Sept, 8am
 Check out the new folder and review notes on systems designing.
 
 ### Rhea - ~ to 3/9/20
