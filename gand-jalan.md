@@ -1,6 +1,6 @@
 ## ** let's see how this goes**
 
-## Ankit's slog 11/9/20
+## Ankit's slog 22/9/20
 
 ### CP
 
@@ -26,9 +26,9 @@
 
 <!-- `Dynamic programming` : Min number of jumps, Water area
 <br/> -->
-
+<!--
 `Linked Lists` :Find Loops
-<br/>
+<br/> -->
 
 <!-- `Famous Algorithms` : Topological sort
 <br/> -->
@@ -43,9 +43,7 @@
 
 ### Thoughts
 
-Check this video out to setup competitive programming environment in VSCode. **Fast, Cool and Convenient**
-
-https://www.youtube.com/watch?v=nBSsEUrxtQ4&t=498s
+Bohot hua systems designing. I'm switching back to cp as of today in Python and 3 ae problems per day. Once I finish backend, probably this week, I'll go all out with cp
 
 ### Rhea - ~ to 3/9/20
 
