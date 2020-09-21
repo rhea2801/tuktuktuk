@@ -43,9 +43,9 @@
 
 ### Thoughts
 
-Check out Topological sort. Uptil now I feel like that's the only DSA problem directly linked to most real world problems. Find loop was a pretty decent problem.
-Also, I'm gonna revise previously solved questions today for LeetCode contest tmrw ( Sunday 12th ) Sept, 8am
-Check out the new folder and review notes on systems designing.
+Check this video out to setup competitive programming environment in VSCode. **Fast, Cool and Convenient**
+
+https://www.youtube.com/watch?v=nBSsEUrxtQ4&t=498s
 
 ### Rhea - ~ to 3/9/20
 
