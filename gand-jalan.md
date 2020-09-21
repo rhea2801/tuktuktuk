@@ -33,7 +33,7 @@
 <!-- `Famous Algorithms` : Topological sort
 <br/> -->
 
-<!-- `Recursion`: Lowest common manager
+<!-- `Recursion`: Lowest common manager`
 <br/> -->
 <!-- `Graphs` : Youngest common ancestor
 <br/> -->
