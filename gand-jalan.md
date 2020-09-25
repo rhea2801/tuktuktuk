@@ -1,6 +1,6 @@
 ## ** let's see how this goes**
 
-## Ankit's slog 22/9/20
+## Ankit's slog 25/9/20
 
 ### CP
 
@@ -20,30 +20,34 @@
 
 <!-- `Trees` : Same BST, Max Path Sum in BT
 <br/> -->
-
-<!-- `Arrays`: Sub-Array sort
+<!-- `Stacks` : Shorten Path
 <br/> -->
 
-<!-- `Dynamic programming` : Min number of jumps, Water area
-<br/> -->
-<!--
-`Linked Lists` :Find Loops
-<br/> -->
+`Arrays`: Largest Range
+<br/>
+
+`Dynamic programming` : Knapsack Problem
+<br/>
+
+`Linked Lists` :Reverse Linked List
+<br/>
 
 <!-- `Famous Algorithms` : Topological sort
 <br/> -->
 
 <!-- `Recursion`: Lowest common manager`
 <br/> -->
-<!-- `Graphs` : Youngest common ancestor
-<br/> -->
+
+`Graphs` : Boggle Board
+<br/>
+
 <!-- `Strings` : Balanced Brackets -->
 
 <!--### Entire week's problems revised, github repo updated-->
 
 ### Thoughts
 
-Bohot hua systems designing. I'm switching back to cp as of today in Python and 3 ae problems per day. Once I finish backend, probably this week, I'll go all out with cp
+Check out the design algoexpert systems design question. Pretty hands-on app of sys des knowledge
 
 ### Rhea - ~ to 3/9/20
 
