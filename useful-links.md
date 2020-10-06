@@ -17,3 +17,5 @@
 ##### Link to Stanford DSA - [Stanford DSA](https://web.stanford.edu/class/cs97si/)
 
 ##### Link to Microsoft Interview Questions - [50 Microsoft Interview Questions](https://career-guru99-com.cdn.ampproject.org/v/s/career.guru99.com/top-50-microsoft-interview-questions-with-answers/amp/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fcareer.guru99.com%2Ftop-50-microsoft-interview-questions-with-answers%2F)
+
+##### Link to Full Stack Development 2020 Roadmap - [Ze Roadmap](https://www.youtube.com/watch?v=BEoFSRdkSZQ)
