@@ -21,3 +21,5 @@
 ##### Link to Full Stack Development 2020 Roadmap - [Ze Roadmap Video](https://www.youtube.com/watch?v=BEoFSRdkSZQ), [Ze Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ##### Link to 200+ UI Design resources for developers - [200+ UI Design Resources](https://github.com/bradtraversy/design-resources-for-developers)
+
+##### Link to identify 14 patterns to ace any DSA Question - [14 patterns for DSA](https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
