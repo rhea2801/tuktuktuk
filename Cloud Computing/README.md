@@ -15,7 +15,7 @@
 ---
 
 
-## Reference Links for Micorsoft Azure AZ900
+## Reference Links for Microsoft Azure AZ900
 
 3hr Course - High Level Overview - [Link](https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=8284s)
 
