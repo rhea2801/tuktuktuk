@@ -23,3 +23,5 @@
 ##### Link to 200+ UI Design resources for developers - [200+ UI Design Resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 ##### Link to identify 14 patterns to ace any DSA Question - [14 patterns for DSA](https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+##### Link to 250+ useful APIs for developers - [250+ APIs](https://devresourc.es/tools-and-utilities/public-apis)
